@@ -1,0 +1,12 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+scipy
+flask
+pymongo
+mongomock
+joblib
