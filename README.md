@@ -35,10 +35,9 @@ airquality/
 ### Task 1: Time-Series Preprocessing & Exploratory Analysis
 
 **A. Understanding the Dataset**
-
-- Time range: March 10, 2004 → April 4, 2005 (hourly granularity)
-- Missing value handling: dropped NMHC(GT) (90% missing), linear interpolation for ground-truth columns, forward-fill for sensor columns
-- Statistical distributions and outlier detection
+Hourly granularity: March 10, 2004–April 4, 2005
+Handling missing values: forward-fill for sensor columns, linear interpolation for ground-truth columns, and discarded NMHC(GT) (90% missing)
+Statistical distributions and the identification of outliers
 
 **B. Analytical Questions (5 questions with visualizations)**
 
