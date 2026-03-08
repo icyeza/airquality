@@ -1,6 +1,6 @@
 # Air Quality Time Series Pipeline
 
-A comprehensive time-series analysis and prediction pipeline for the **UCI Air Quality Dataset**, covering data exploration, modeling, database design, API development, and automated prediction.
+A thorough time-series analysis and prediction pipeline that includes data exploration, modeling, database design, API development, and automated prediction for the  Air Quality Dataset.
 
 ## Dataset
 
